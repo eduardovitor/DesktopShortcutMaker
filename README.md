@@ -1,6 +1,6 @@
 ### Desktop Shortcut Maker
 
-This is a simple script to create a linux desktop file from keyboard parameters and move it to folder where shortcuts are stored.
+This is a simple script to create a linux desktop file from keyboard parameters and move it to the folder where shortcuts are stored.
 
 **An important note** :  in order to move the desktop file to the proper folder, it's necessary to run the command as root.
 
